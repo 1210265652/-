@@ -10,6 +10,6 @@
 
 5. 使用内容分发cdn加速
 
-6. 静态资源缓存
+6. 静态资源缓存 [http://blog.csdn.net/zhangjs712/article/details/51166748]
 
 7. 图片延迟加载
